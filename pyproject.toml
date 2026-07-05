@@ -1,0 +1,12 @@
+[project]
+name = "atp-tour"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.0",
+    "pandas>=3.0.3",
+    "scikit-learn>=1.9.0",
+    "xgboost>=3.3.0",
+]
